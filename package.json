@@ -1,0 +1,7 @@
+{
+  "name": "vercel-bridge-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API bridge untuk app mobile - fetch & process data",
+  "engines": { "node": ">=18" }
+}
